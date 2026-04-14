@@ -10,7 +10,7 @@
 .main{
     height: 100vh;
     width: 100%;
-    background-image: url(../image/bg.avif);
+    background-image: url(./image/bg.avif);
     background-size: cover;
     background-position: center;
     animation: zoomBg 10s infinite alternate;
